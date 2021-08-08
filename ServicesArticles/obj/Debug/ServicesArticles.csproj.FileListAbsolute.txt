@@ -1,0 +1,9 @@
+C:\Users\user\source\repos\ServicesArticles\bin\Debug\ServicesArticles.dll
+C:\Users\user\source\repos\ServicesArticles\bin\Debug\ServicesArticles.pdb
+C:\Users\user\source\repos\ServicesArticles\bin\Debug\Interfaces.dll
+C:\Users\user\source\repos\ServicesArticles\bin\Debug\Interfaces.pdb
+C:\Users\user\source\repos\ServicesArticles\obj\Debug\ServicesArticles.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ServicesArticles\obj\Debug\ServicesArticles.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ServicesArticles\obj\Debug\ServicesArticles.csproj.CopyComplete
+C:\Users\user\source\repos\ServicesArticles\obj\Debug\ServicesArticles.dll
+C:\Users\user\source\repos\ServicesArticles\obj\Debug\ServicesArticles.pdb
