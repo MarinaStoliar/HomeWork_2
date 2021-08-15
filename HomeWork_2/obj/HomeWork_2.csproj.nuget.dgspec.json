@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\HomeWork_2-main\\HomeWork_2\\HomeWork_2.csproj": {}
+    "E:\\HomeWork_Module_2\\HomeWork_2\\HomeWork_2\\HomeWork_2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\HomeWork_2-main\\HomeWork_2\\HomeWork_2.csproj": {
+    "E:\\HomeWork_Module_2\\HomeWork_2\\HomeWork_2\\HomeWork_2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\HomeWork_2-main\\HomeWork_2\\HomeWork_2.csproj",
+        "projectUniqueName": "E:\\HomeWork_Module_2\\HomeWork_2\\HomeWork_2\\HomeWork_2.csproj",
         "projectName": "HomeWork_2",
-        "projectPath": "C:\\Users\\user\\Desktop\\HomeWork_2-main\\HomeWork_2\\HomeWork_2.csproj",
+        "projectPath": "E:\\HomeWork_Module_2\\HomeWork_2\\HomeWork_2\\HomeWork_2.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\HomeWork_2-main\\HomeWork_2\\obj\\",
+        "outputPath": "E:\\HomeWork_Module_2\\HomeWork_2\\HomeWork_2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\user\\Desktop\\HomeWork_2-main\\Interfaces\\Interfaces.csproj": {
-                "projectPath": "C:\\Users\\user\\Desktop\\HomeWork_2-main\\Interfaces\\Interfaces.csproj"
+              "E:\\HomeWork_Module_2\\HomeWork_2\\Interfaces\\Interfaces.csproj": {
+                "projectPath": "E:\\HomeWork_Module_2\\HomeWork_2\\Interfaces\\Interfaces.csproj"
               },
-              "C:\\Users\\user\\Desktop\\HomeWork_2-main\\ServicesArticles\\ServicesArticles.csproj": {
-                "projectPath": "C:\\Users\\user\\Desktop\\HomeWork_2-main\\ServicesArticles\\ServicesArticles.csproj"
+              "E:\\HomeWork_Module_2\\HomeWork_2\\ServicesArticles\\ServicesArticles.csproj": {
+                "projectPath": "E:\\HomeWork_Module_2\\HomeWork_2\\ServicesArticles\\ServicesArticles.csproj"
               }
             }
           }
@@ -74,26 +74,26 @@
         }
       }
     },
-    "C:\\Users\\user\\Desktop\\HomeWork_2-main\\Interfaces\\Interfaces.csproj": {
+    "E:\\HomeWork_Module_2\\HomeWork_2\\Interfaces\\Interfaces.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\HomeWork_2-main\\Interfaces\\Interfaces.csproj",
+        "projectUniqueName": "E:\\HomeWork_Module_2\\HomeWork_2\\Interfaces\\Interfaces.csproj",
         "projectName": "Interfaces",
-        "projectPath": "C:\\Users\\user\\Desktop\\HomeWork_2-main\\Interfaces\\Interfaces.csproj"
+        "projectPath": "E:\\HomeWork_Module_2\\HomeWork_2\\Interfaces\\Interfaces.csproj"
       },
       "frameworks": {
         "net472": {}
       }
     },
-    "C:\\Users\\user\\Desktop\\HomeWork_2-main\\ServicesArticles\\ServicesArticles.csproj": {
+    "E:\\HomeWork_Module_2\\HomeWork_2\\ServicesArticles\\ServicesArticles.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\HomeWork_2-main\\ServicesArticles\\ServicesArticles.csproj",
+        "projectUniqueName": "E:\\HomeWork_Module_2\\HomeWork_2\\ServicesArticles\\ServicesArticles.csproj",
         "projectName": "ServicesArticles",
-        "projectPath": "C:\\Users\\user\\Desktop\\HomeWork_2-main\\ServicesArticles\\ServicesArticles.csproj",
+        "projectPath": "E:\\HomeWork_Module_2\\HomeWork_2\\ServicesArticles\\ServicesArticles.csproj",
         "frameworks": {
           "net472": {
             "projectReferences": {
-              "C:\\Users\\user\\Desktop\\HomeWork_2-main\\Interfaces\\Interfaces.csproj": {
-                "projectPath": "C:\\Users\\user\\Desktop\\HomeWork_2-main\\Interfaces\\Interfaces.csproj"
+              "E:\\HomeWork_Module_2\\HomeWork_2\\Interfaces\\Interfaces.csproj": {
+                "projectPath": "E:\\HomeWork_Module_2\\HomeWork_2\\Interfaces\\Interfaces.csproj"
               }
             }
           }
